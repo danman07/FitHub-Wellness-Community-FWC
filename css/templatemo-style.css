@@ -650,6 +650,8 @@ http://www.templatemo.com/tm-515-eatery
   /* Display the testimonial section only on mobile devices */
   #testimonial {
       display: block;
+      background-color: #ce3232;
+
 
   }
   #testimonial .owl-dots {
@@ -657,7 +659,6 @@ http://www.templatemo.com/tm-515-eatery
     background-repeat: no-repeat;
     background-attachment: local;
     background-size: cover;
-    background-color: #ce3232;
     justify-content: center;
   }
 
